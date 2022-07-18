@@ -12,6 +12,9 @@
 	    <artifactId>selenium-java</artifactId>
 	    <version>4.1.1</version>
 	</dependency>
+	  
+	  
+	  
   	
   	<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
 	<dependency>
